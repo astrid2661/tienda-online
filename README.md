@@ -23,7 +23,7 @@ tienda-online/
 ├── views/
 ├── controladores/
 └── index.php
-
-4. Importar base de datos
-5. Configurar conexión en config
-6. Ejecutar en XAMPP
+```
+3. Importar base de datos
+4. Configurar conexión en config
+5. Ejecutar en XAMPP
