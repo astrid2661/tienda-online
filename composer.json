@@ -1,0 +1,14 @@
+{
+    "name": "astrid2661/tienda-online",
+    "description": "Sistema de tienda online en PHP",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "Controllers/",
+            "Models\\": "Models/"
+        }
+    }
+}
